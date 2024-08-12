@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me - Email me at subhadeeprakshit35@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love to play football and my favourite football tema is Real Madrid ⚽. I also love to play video games. 🎮
 
 <!---
 SuRak35/SuRak35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
