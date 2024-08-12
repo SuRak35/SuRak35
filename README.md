@@ -2,8 +2,8 @@
 - 👀 I’m interested in ML, DS, CyberSecurity and other CS related domains
 - 🌱 I’m currently learning DS
 - 💞️ I’m looking to collaborate on LinkedIn
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me - Email me at subhadeeprakshit35@gmail.com
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
