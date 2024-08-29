@@ -1,5 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SuRak35.SuRak35" />
 
+<p align="center">
+  <h3 align="center">WELCOME TO MY PROFILE 😀</h3>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There+👋;My+Name+Is+Subhadeep+Rakshit+👨‍💻;Do+Check+Out+My+Projects+🚀&font=Fira%20Code&center=true&width=380&height=50&duration=3000&pause=500" >
+</p>
+
 - 👋 Hi, I’m @SuRak35
 - 👀 I’m interested in ML, DS, CyberSecurity and other CS related domains
 - 🌱 I’m currently learning DS
