@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There+👋;My+Name+Is+Subhadeep+Rakshit+👨‍💻;Do+Check+Out+My+Projects+🚀&font=Fira%20Code&center=true&width=380&height=50&duration=3000&pause=500" >
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There+👋;My+Name+Is+Subhadeep+Rakshit+👨‍💻;Do+Check+Out+My+Projects+🚀&font=Righteous&size=35&center=true&vCenter=true&width=580&height=70&duration=3000&pause=500" >
 </p>
 
 - 👋 Hi, I’m @SuRak35
