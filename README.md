@@ -1,3 +1,4 @@
+< img align = "right" src = "https://visitor-badge.laobi.icu/badge?page_id=SuRak35.visitor-badge&left_color=red&right_color=green&left_text=Visitors" />
 - 👋 Hi, I’m @SuRak35
 - 👀 I’m interested in ML, DS, CyberSecurity and other CS related domains
 - 🌱 I’m currently learning DS
