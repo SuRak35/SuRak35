@@ -19,6 +19,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to play football and my favourite football team is Real Madrid ⚽. I also love to play video games. 🎮
 
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <!---
 SuRak35/SuRak35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
