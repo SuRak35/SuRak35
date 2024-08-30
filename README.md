@@ -1,5 +1,5 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SuRak35.SuRak35" />
+<img align="right" src="https://visitcount.itsvg.in/api?id=SuRak35&icon=5&color=1" />
 
 <p align="center">
   <h3 align="center">WELCOME TO MY PROFILE 😀</h3>
