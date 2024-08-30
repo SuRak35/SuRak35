@@ -25,15 +25,15 @@
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SuRak35&limit=5&theme=blue-green&combine_all_yearly_contributions=true)<br/>
+![](https://github-contributor-stats.vercel.app/api?username=SuRak35&limit=5&theme=blue-green&combine_all_yearly_contributions=true)<br/><br/><br/>
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SuRak35&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SuRak35&theme=blue-green&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuRak35&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuRak35&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><br/><br/>
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SuRak35&theme=radical&no-frame=false&no-bg=false&margin-w=4)<br/>
+![](https://github-profile-trophy.vercel.app/?username=SuRak35&theme=radical&no-frame=false&no-bg=false&margin-w=4)<br/><br/><br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
