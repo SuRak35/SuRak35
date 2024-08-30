@@ -29,7 +29,7 @@
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SuRak35&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=SuRak35&theme=blue-green&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SuRak35&size=500&theme=blue-green&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuRak35&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
