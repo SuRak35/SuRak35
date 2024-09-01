@@ -43,9 +43,9 @@
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br/><br/><br/>
+<img align="right" alt="Dog" width="90" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnoyMjcyamFhZXdpN2NlMzZsemM5Y2hlcm9lMmlqMmo2eDBjMTNudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U6ZGtpeZkmjmYxnd22/giphy.webp">
 
-## 🔗 Connect with me:</h3> 
-<img align="left" alt="Dog" width="90" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnoyMjcyamFhZXdpN2NlMzZsemM5Y2hlcm9lMmlqMmo2eDBjMTNudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U6ZGtpeZkmjmYxnd22/giphy.webp">
+## 🔗 Connect with me: 
 <p align="left">
 <a href="https://fb.com/subhadeep rakshit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subhadeeprakshit" height="30" width="40" /></a>
 <a href="https://instagram.com/surak_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surak_5" height="30" width="40" /></a>
