@@ -41,7 +41,7 @@
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br/><br/><br/>
-<img align="right" alt="Dog" width="92" src="https://i.pinimg.com/originals/90/6a/36/906a36f53949a5b12b4ef81ca011e70f.gif">
+<img align="right" alt="Dog" width="92" src="https://cdn.dribbble.com/users/4978497/screenshots/14371515/media/05a0e1c418c87d73d66e50990ff27c8c.gif">
 
 ## 🔗 Connect with me:</h3>
 <p align="left">
