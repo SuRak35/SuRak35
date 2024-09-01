@@ -38,7 +38,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=SuRak35&theme=radical&no-frame=false&no-bg=false&margin-w=4)<br/><br/><br/>
 
 ## ✍️ Random Dev Quote
-<img align="right" alt="Cat" width="320" src="https://steamuserimages-a.akamaihd.net/ugc/1848161512059697651/AF6EB9A3C89A58B2CF7A372FB5113615316B474D/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img align="right" alt="Cat" width="300" src="https://i.pinimg.com/originals/e8/d0/f1/e8d0f1794e2520ac2367c1d21c0966e9.gif">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br/><br/><br/>
 
