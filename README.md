@@ -42,8 +42,8 @@
 <img align="right" alt="Cat" width="92" src="https://i.pinimg.com/originals/e8/d0/f1/e8d0f1794e2520ac2367c1d21c0966e9.gif">
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br/><br/><br/>
-<img align="right" alt="Dog" width="95" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnoyMjcyamFhZXdpN2NlMzZsemM5Y2hlcm9lMmlqMmo2eDBjMTNudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U6ZGtpeZkmjmYxnd22/giphy.webp">
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br/><br/>
+<img align="right" alt="Dog" width="95" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnoyMjcyamFhZXdpN2NlMzZsemM5Y2hlcm9lMmlqMmo2eDBjMTNudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U6ZGtpeZkmjmYxnd22/giphy.webp"><br/>
 
 ## 🔗 Connect with me: 
 <p align="left">
