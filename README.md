@@ -36,7 +36,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SuRak35&theme=radical&no-frame=false&no-bg=false&margin-w=4)<br/><br/><br/>
-<img align="right" alt="Cat" width="95" src="https://i.pinimg.com/originals/e8/d0/f1/e8d0f1794e2520ac2367c1d21c0966e9.gif">
+<img align="right" alt="Cat" width="92.5" src="https://i.pinimg.com/originals/e8/d0/f1/e8d0f1794e2520ac2367c1d21c0966e9.gif">
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br/><br/><br/>
