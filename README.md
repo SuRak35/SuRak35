@@ -41,7 +41,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/subhadeep rakshit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subhadeep rakshit" height="30" width="40" /></a>
+<a href="https://fb.com/subhadeep rakshit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subhadeeprakshit" height="30" width="40" /></a>
 <a href="https://instagram.com/surak_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surak_5" height="30" width="40" /></a>
 <a href="https://twitter.com/subhadeepr5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhadeepr5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/surak35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surak35" height="30" width="40" /></a>
