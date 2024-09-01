@@ -43,7 +43,7 @@
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br/><br/>
-<img align="right" alt="Dog" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnoyMjcyamFhZXdpN2NlMzZsemM5Y2hlcm9lMmlqMmo2eDBjMTNudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U6ZGtpeZkmjmYxnd22/giphy.webp"><br/>
+<img align="right" alt="Dog" width="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnoyMjcyamFhZXdpN2NlMzZsemM5Y2hlcm9lMmlqMmo2eDBjMTNudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U6ZGtpeZkmjmYxnd22/giphy.webp"><br/>
 
 ## 🔗 Connect with me: 
 <p align="left">
