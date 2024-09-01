@@ -24,22 +24,22 @@
 
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SuRak35&limit=5&theme=blue-green&combine_all_yearly_contributions=true)<br/><br/><br/>
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SuRak35&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SuRak35&theme=blue-green&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuRak35&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><br/><br/>
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SuRak35&theme=radical&no-frame=false&no-bg=false&margin-w=4)<br/><br/><br/>
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br/><br/><br/>
 
 
-<h3 align="left">Connect with me:</h3>
+## 🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/subhadeep rakshit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subhadeeprakshit" height="30" width="40" /></a>
 <a href="https://instagram.com/surak_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surak_5" height="30" width="40" /></a>
@@ -47,9 +47,9 @@
 <a href="https://linkedin.com/in/surak35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surak35" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/surak35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="surak35" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/surak35" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="surak35" height="30" width="40" /></a>
-</p><br/><br/><br/>
+</p>
 
-
+![MasterFoot](https://wallpaperaccess.com/full/5927911.gif)
 <!---
 SuRak35/SuRak35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
