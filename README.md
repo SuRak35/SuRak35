@@ -26,7 +26,9 @@
 
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## 🔝 Top Contributed Repo
+<img align="center" alt="Dragon" width="100" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aac735f1-27a8-4053-ae1d-a2effb34795b/d6il0gc-89679aab-8e88-4d36-a0e4-f089cc9fe72b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FhYzczNWYxLTI3YTgtNDA1My1hZTFkLWEyZWZmYjM0Nzk1YlwvZDZpbDBnYy04OTY3OWFhYi04ZTg4LTRkMzYtYTBlNC1mMDg5Y2M5ZmU3MmIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qLJF2Xwuf6X6oQZqyFnPMpfAh0WoBj6aZwFbJph1Vdw">
+
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SuRak35&limit=5&theme=blue-green&combine_all_yearly_contributions=true)<br/><br/><br/>
 
 ## 📊 GitHub Stats:
