@@ -28,8 +28,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SuRak35&limit=5&theme=blue-green&combine_all_yearly_contributions=true)<br/><br/><br/>
-
-<img align="right" alt="Terraria" width="150" src="https://terraria.wiki.gg/images/1/17/Flying_Dutchman.gif"><br/><br/><br/><br/><br/>
+<img align="right" alt="Terraria" width="175" src="https://terraria.wiki.gg/images/1/17/Flying_Dutchman.gif"><br/><br/><br/><br/><br/>
 
 ## 📊 GitHub Stats:
 <img align="right" alt="Coding" width="350" src="https://steamuserimages-a.akamaihd.net/ugc/1661224712069230981/BFD6A13BBBF6F1A2A7FA6A6DA961E0700E98660A/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
