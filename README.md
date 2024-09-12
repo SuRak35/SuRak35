@@ -33,9 +33,11 @@
 ## 📊 GitHub Stats:
 <img align="right" alt="Coding" width="350" src="https://steamuserimages-a.akamaihd.net/ugc/1661224712069230981/BFD6A13BBBF6F1A2A7FA6A6DA961E0700E98660A/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
-![](https://github-readme-stats.vercel.app/api?username=SuRak35&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SuRak35&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuRak35&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surak35&show_icons=true&locale=en&layout=compact" alt="surak35" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=surak35&show_icons=true&locale=en" alt="surak35" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=surak35&" alt="surak35" /></p>
 <img align="right" alt="Cat" width="110" src="https://img.itch.zone/aW1hZ2UvMTEzNTA0NS82NTc4ODU4LmdpZg==/original/GuSHJB.gif"><br/>
 
 ## 🏆 GitHub Trophies
