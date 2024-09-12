@@ -34,7 +34,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=surak35&show_icons=true&locale=en" alt="surak35" />
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=surak35&" alt="surak35" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surak35&show_icons=true&locale=en&layout=compact" alt="surak35" /></p></p><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<img align="right" alt="Cat" width="110" src="https://img.itch.zone/aW1hZ2UvMTEzNTA0NS82NTc4ODU4LmdpZg==/original/GuSHJB.gif"><br/><br/><br/>
+<img align="right" alt="Cat" width="110" src="https://img.itch.zone/aW1hZ2UvMTEzNTA0NS82NTc4ODU4LmdpZg==/original/GuSHJB.gif">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SuRak35&theme=radical&no-frame=false&no-bg=false&margin-w=4)<br/><br/><br/>
