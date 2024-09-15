@@ -32,8 +32,8 @@
 
 ## 📊 GitHub Stats:
 <img align="right" alt="Coding" width="335" src="https://steamuserimages-a.akamaihd.net/ugc/1661224712069230981/BFD6A13BBBF6F1A2A7FA6A6DA961E0700E98660A/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"><br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=surak35&theme=blue-green&show_icons=true&locale=en" alt="surak35" /><br/>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=surak35&theme=blue-green&" alt="surak35" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=surak35&theme=blue-green&show_icons=true&locale=en" alt="surak35" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=surak35&theme=blue-green&" alt="surak35" /><br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surak35&theme=blue-green&show_icons=true&locale=en&layout=compact" alt="surak35" /></p></p><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <img align="right" alt="Cat" width="135" src="https://img.itch.zone/aW1hZ2UvMTEzNTA0NS82NTc4ODU4LmdpZg==/original/GuSHJB.gif"><br/>
 
