@@ -59,7 +59,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=surak35&theme=synthwave-84&true&hide_border=true" />
 </div>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <img align="right" alt="Cat" width="135" src="https://img.itch.zone/aW1hZ2UvMTEzNTA0NS82NTc4ODU4LmdpZg==/original/GuSHJB.gif"><br/>
 
 ## 🏆 GitHub Trophies
