@@ -48,7 +48,7 @@
 ## 🔝 Top Contributed Repo
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-![](https://github-contributor-stats.vercel.app/api?username=SuRak35&limit=5&theme=blue-green&combine_all_yearly_contributions=true)<br/><br/><br/>
+![](https://github-contributor-stats.vercel.app/api?username=SuRak35&limit=5&theme=radical&combine_all_yearly_contributions=true)<br/><br/><br/>
 <img align="right" alt="Terraria" width="175" src="https://terraria.wiki.gg/images/1/17/Flying_Dutchman.gif"><br/><br/><br/><br/><br/>
 
 ## 📊 GitHub Stats:
