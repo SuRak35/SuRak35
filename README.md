@@ -1,4 +1,7 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
+
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <img align="right" src="https://visitcount.itsvg.in/api?id=SuRak35&icon=5&color=1" />
 
 <p align="center">
@@ -86,6 +89,8 @@ You can click the Preview link to take a look at your changes.
 ## 📈 Github Contributions:
 ![snake gif](https://github.com/SuRak35/SuRak35/blob/output/github-contribution-grid-snake-dark.svg)
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 <br>
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
@@ -112,3 +117,5 @@ You can click the Preview link to take a look at your changes.
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=footer"/>
