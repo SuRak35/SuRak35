@@ -2,7 +2,7 @@
 
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<img align="right" src="https://visitcount.itsvg.in/api?id=SuRak35&icon=5&color=1" />
+<img align="right" src="https://komarev.com/ghpvc/?username=surak35&label=Profile%20views&color=0e75b6&style=flat" />
 
 <p align="center">
   <h3 align="center">WELCOME TO MY PROFILE 😀</h3>
